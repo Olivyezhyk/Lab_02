@@ -2,7 +2,11 @@
 // < Сусяк Олег >
 // Лабораторна робота № 2.
 // Лінійні програми.
+<<<<<<< HEAD
 // Варіант #29
+=======
+// Варіант '29'
+>>>>>>> new-branch
 #include <iostream>
 #include <cmath>
 using namespace std;
